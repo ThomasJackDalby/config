@@ -1,1 +1,7 @@
-{"server_url": "http://151.217.80.167:8000"}
+{
+    "server_url": "http://151.217.80.167:8000",
+    "ssid_filter": [
+        "emf",
+        "emf-open"
+    ]
+}
